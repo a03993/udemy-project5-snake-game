@@ -1,0 +1,44 @@
+:root {
+  --bg-color: black;
+  --main-color: lightgreen;
+  --text-color: white;
+  --highlight-color: lightblue;
+  --btn-color: yellow;
+}
+
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: "Inconsolata", monospace;
+  color: var(--text-color);
+}
+
+body {
+  background-color: var(--bg-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 4.5rem;
+}
+
+#myScore,
+#myScore2 {
+  font-size: 1.2rem;
+}
+
+#myScore2 {
+  color: var(--highlight-color);
+}
+
+#myCanvas {
+  border: 5px solid var(--main-color);
+  margin: 2rem;
+}
+
+#Start {
+  padding: 0.5rem 1rem;
+  background-color: var(--btn-color);
+  color: var(--bg-color);
+  font-size: 1.15rem;
+}
