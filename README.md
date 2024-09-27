@@ -59,10 +59,16 @@ Feel free to fork the repository and submit pull requests. Any contributions are
 
 ## License - 授權
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+MIT License / MIT 授權
 
-該專案採用 MIT 授權條款。詳細資訊請參考 LICENSE 文件。
+Copyright (c) 2024 Tina Chiu / 版權所有 (c) 2024 邱筠庭
 
-- 專案連結與徽章放在 README 最上方，方便快速查看
-- 功能特色、安裝與使用說明皆簡潔易懂，適合靜態網站專案
-- 若專案中包含更多技術細節（如 CSS 模塊化、設計考量），可以進一步補充內容
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+特此免費授予任何獲得本軟體及相關文件檔案（以下稱「軟體」）副本的人，無限制地處理該軟體的權利，包括但不限於使用、複製、修改、合併、發行、分發、再授權及/或銷售該軟體的副本，並允許向其提供該軟體的人這樣做，遵循以下條件：
+
+1. 上述版權聲明及本授權聲明應包含於所有副本或該軟體的實質部分中。
+2. 該軟體按「現狀」提供，無任何明示或暗示的保證，包括但不限於對商業性、特定用途適用性及不侵權的保證。在任何情況下，作者或版權持有人對於因使用或其他交易而產生的任何索賠、損害或其他責任（無論是基於合約、侵權或其他）不承擔責任。
