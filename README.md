@@ -11,7 +11,7 @@ Welcome to the **Snake Game** project! This is a simple yet fun implementation o
 
 ## Demo
 
-You can play the game live [here](https://snake-game-2024.netlify.app/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aba31819-714c-43bc-9292-0a06dae73a10/deploy-status)](https://snake-game-2024.netlify.app/)
 
 ## Installation
 
