@@ -1,17 +1,16 @@
 # Snake Game
 
 Welcome to the **Snake Game** project! This is a simple yet fun implementation of the classic Snake game, created using HTML5 Canvas.
+View the deployed version of the website here!
+
+**Demo Link：**[![Netlify Status](https://api.netlify.com/api/v1/badges/76ac300f-74cd-47ec-a33b-846ecab363f0/deploy-status)](https://snake-game-2024.netlify.app/)
+
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Features](#features)
-
-## Demo
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aba31819-714c-43bc-9292-0a06dae73a10/deploy-status)](https://snake-game-2024.netlify.app/)
 
 ## Installation
 
